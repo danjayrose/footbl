@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/premier-league/static/css/main.49a5f547.css",
-    "main.js": "/premier-league/static/js/main.1f95722a.js",
+    "main.js": "/premier-league/static/js/main.bb48e1fd.js",
     "static/js/27.3822d7c4.chunk.js": "/premier-league/static/js/27.3822d7c4.chunk.js",
     "index.html": "/premier-league/index.html"
   },
   "entrypoints": [
     "static/css/main.49a5f547.css",
-    "static/js/main.1f95722a.js"
+    "static/js/main.bb48e1fd.js"
   ]
 }
